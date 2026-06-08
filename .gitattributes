@@ -1,2 +1,2 @@
-Graficos dinamicos/** linguist-documentation=true
-*.html linguist-detectable=true linguist-documentation=false
+*.html linguist-language=HTML
+Graficos dinamicos/*.html linguist-documentation=true
